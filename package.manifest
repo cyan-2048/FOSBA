@@ -1,6 +1,6 @@
 {
     "name": "Firefox OS Boilerplate App",
-    "package_path" : "http://localhost/Firefox-OS-Boilerplate-App/Firefox-OS-Boilerplate-App.zip",
+    "package_path" : "https://cyan-2048.github.io/FOSBA/Firefox-OS-BoilerPlate-App.zip",
     "version": "1",
     "developer": {
         "name": "Robert Nyman",
